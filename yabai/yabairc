@@ -1,0 +1,10 @@
+yabai -m config layout bsp
+
+yabai -m config window_pacement second_child
+
+# mouse settings
+
+yabai -m config mouse_follows_focus on 
+
+
+
